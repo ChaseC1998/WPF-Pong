@@ -1,0 +1,14 @@
+C:\Users\VR\source\repos\WpfPong\WpfPong\bin\Debug\WpfPong.exe.config
+C:\Users\VR\source\repos\WpfPong\WpfPong\bin\Debug\WpfPong.exe
+C:\Users\VR\source\repos\WpfPong\WpfPong\bin\Debug\WpfPong.pdb
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong.csprojAssemblyReference.cache
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\MainWindow.g.cs
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\App.g.cs
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong_MarkupCompile.cache
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong_MarkupCompile.lref
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\MainWindow.baml
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong.g.resources
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong.Properties.Resources.resources
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong.csproj.GenerateResource.cache
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong.exe
+C:\Users\VR\source\repos\WpfPong\WpfPong\obj\Debug\WpfPong.pdb
